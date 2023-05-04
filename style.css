@@ -1,0 +1,52 @@
+#joke{  
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    margin: 100px;
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    padding: 10px;
+    border: solid 2px cadetblue;
+    border-radius: 2px;  
+    font-size: 35px;
+    background-color: rgb(222, 236, 248);
+}
+
+#refreshPage{  
+    background-color: #272086;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: cornflowerblue;  
+     
+}
+#refPageHolder{   
+    margin-top: 50px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+}
+
+#description{   
+    margin-top: 150px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+
+#grouper{    
+    border: 2px solid black;
+    height: 700px;
+    width: 88%;
+    border-radius: 5px;
+    background-color: #f4fbff;
+    margin: 100px;
+    padding: 10px;
+}
+
+body{    
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
